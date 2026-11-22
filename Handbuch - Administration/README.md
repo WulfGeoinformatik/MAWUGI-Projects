@@ -8,9 +8,9 @@ Dieses Handbuch richtet sich an die IT-Administration. Es beschreibt Installatio
 |---|---|
 | Plattform | Windows 10/11, 64 Bit |
 | Installationsart | pro Rechner (alle Benutzer), Administratorrechte erforderlich |
-| Unterstützte DMS | d.velop documents (über die CMIS-Schnittstelle) |
-| Verbindung | HTTPS zum DMS, keine weiteren Server oder Dienste |
-| Lizenzprüfung | offline über eine signierte Lizenzdatei, kein Lizenzserver |
+| Unterstützte DMS | d.velop documents |
+| Verbindung | HTTPS, CMIS Browser-Binding |
+
 
 ## Pfade auf einen Blick
 
